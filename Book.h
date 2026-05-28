@@ -8,7 +8,7 @@ private:
     std::string author;
     std::string isbn;
     bool available;
-
+   
 public:
     Book();
 
